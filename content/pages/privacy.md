@@ -42,7 +42,9 @@ The legal basis for the chat is legitimate interest: running a small site that a
 
 ## Children
 
-This site is not aimed at children. If you are under 16, please ask a parent or guardian before writing anything here.
+Situs ini bukan untuk orang di bawah 18 tahun. Situs ini berbicara tentang iman kepada Yesus, dan itu adalah konten keagamaan, jadi situs ini ditulis untuk orang dewasa. Jika kamu di bawah 18 tahun, jangan bagikan informasi pribadi di sini, dan jangan menulis surat untuk Jonathan.
+
+Di Spanyol, hukum mengatakan anak di bawah 14 tahun membutuhkan persetujuan orang tua atau wali sebelum membagikan data pribadi secara online. Aturan situs ini sendiri lebih ketat: di bawah 18 tahun, situs ini bukan untukmu.
 
 ## Changes
 
