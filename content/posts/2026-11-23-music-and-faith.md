@@ -3,7 +3,7 @@ title: "Musik dan Iman"
 date: 2026-11-23
 slug: music-and-faith
 draft: false
-shareImage: /images/music-faith/sonreal.jpg
+shareImage: /images/music-faith/rachmutiara.jpg
 ---
 
 Aku menghabiskan banyak waktu mendengarkan para musisi di Instagram. Ini beberapa yang akhir-akhir ini kudengarkan.
@@ -14,70 +14,68 @@ Paulus melakukan hal yang mirip di Athena. Dia memakai puisi dan bahasa mereka, 
 
 Mereka tidak semuanya menyanyikan lagu pujian. Kebanyakan hanya bernyanyi tentang hidup, dan iman adalah bagian dari itu. Itulah yang kusukai dari mereka. Ketuk kartu untuk menonton lagunya di Instagram.
 
-Aku juga membuat video reaksi untuk lagu baru SonReal. Kamu bisa menontonnya di sini:
-
-[Reaksiku terhadap video baru SonReal](https://www.youtube.com/shorts/wePjZMr6beE)
+Lagu-lagu ini berbahasa Indonesia. Mereka musisi yang bernyanyi dalam bahasa Indonesia — ada yang menyanyikan lagu pujian, ada yang bernyanyi tentang hidup, dan iman adalah bagian dari itu.
 
 <div class="ig-grid">
-<a class="ig-card" href="https://www.instagram.com/reel/DgBgmKwB84s/" target="_blank" rel="noopener">
-<img class="ig-card__img" src="/images/music-faith/sonreal.jpg" alt="SonReal" loading="lazy" width="150" height="150">
-<span class="ig-card__text"><span class="ig-card__name">SonReal</span>
-<span class="ig-card__note">Rap yang lucu dan penuh harapan tentang mengenali musik yang bagus begitu kamu mendengarnya. Jangan menilai buku dari sampulnya.</span></span>
+<a class="ig-card" href="https://www.instagram.com/reel/Df_aJL1qlHC/" target="_blank" rel="noopener">
+<img class="ig-card__img" src="/images/music-faith/rachmutiara.jpg" alt="Rachel Mutiara" loading="lazy" width="150" height="150">
+<span class="ig-card__text"><span class="ig-card__name">Rachel Mutiara</span>
+<span class="ig-card__note">Penyanyi lagu rohani, menyanyi untuk Yesus.</span></span>
 </a>
-<a class="ig-card" href="https://www.instagram.com/reel/DgDnpYFAUjr/" target="_blank" rel="noopener">
-<img class="ig-card__img" src="/images/music-faith/tamzene.jpg" alt="Tamzene" loading="lazy" width="150" height="150">
-<span class="ig-card__text"><span class="ig-card__name">Tamzene</span>
-<span class="ig-card__note">"Aku akan menyimpan kursi untukmu." Lagu yang lembut, dan sebuah kursi yang kosong.</span></span>
+<a class="ig-card" href="https://www.instagram.com/reel/DfpH4LPvhic/" target="_blank" rel="noopener">
+<img class="ig-card__img" src="/images/music-faith/mariapriscilla_official.jpg" alt="Maria Priscilla" loading="lazy" width="150" height="150">
+<span class="ig-card__text"><span class="ig-card__name">Maria Priscilla</span>
+<span class="ig-card__note">Melayani Tuhan lewat pujian.</span></span>
 </a>
-<a class="ig-card" href="https://www.instagram.com/reel/Df5X6L3K-3W/" target="_blank" rel="noopener">
-<img class="ig-card__img" src="/images/music-faith/lilyfittsmusic.jpg" alt="Lily Fitts" loading="lazy" width="150" height="150">
-<span class="ig-card__text"><span class="ig-card__name">Lily Fitts</span>
-<span class="ig-card__note">Lagunya, "Notice", akhirnya rilis, lebih dari setahun setelah pertama kali dia memainkannya.</span></span>
+<a class="ig-card" href="https://www.instagram.com/reel/Ddp6lfVJyff/" target="_blank" rel="noopener">
+<img class="ig-card__img" src="/images/music-faith/melithatricia.jpg" alt="Melitha Sidabutar" loading="lazy" width="150" height="150">
+<span class="ig-card__text"><span class="ig-card__name">Melitha Sidabutar</span>
+<span class="ig-card__note">Menyanyikan lagu rohani yang menguatkan.</span></span>
 </a>
-<a class="ig-card" href="https://www.instagram.com/reel/DgE-ybeI6ko/" target="_blank" rel="noopener">
-<img class="ig-card__img" src="/images/music-faith/fatheringstarlings.jpg" alt="Fathering Starlings" loading="lazy" width="150" height="150">
-<span class="ig-card__text"><span class="ig-card__name">Fathering Starlings</span>
-<span class="ig-card__note">"Your Heart in the Fire" — folk lo-fi dari Utara, jujur, lapuk oleh cuaca, mentah.</span></span>
+<a class="ig-card" href="https://www.instagram.com/reel/Df1fC9jxRP6/" target="_blank" rel="noopener">
+<img class="ig-card__img" src="/images/music-faith/glenimanuel.jpg" alt="Glen Imanuel" loading="lazy" width="150" height="150">
+<span class="ig-card__text"><span class="ig-card__name">Glen Imanuel</span>
+<span class="ig-card__note">Penyanyi rohani, melayani lewat lagu.</span></span>
 </a>
-<a class="ig-card" href="https://www.instagram.com/reel/DfkSMZhpium/" target="_blank" rel="noopener">
-<img class="ig-card__img" src="/images/music-faith/naterosemusic.jpg" alt="Nate Rose" loading="lazy" width="150" height="150">
-<span class="ig-card__text"><span class="ig-card__name">Nate Rose</span>
-<span class="ig-card__note">Tahun lalu dia menyerahkan hidupnya kepada Allah. Sekarang dia ingin menceritakan kisahnya, dan memuji Dia dalam prosesnya.</span></span>
+<a class="ig-card" href="https://www.instagram.com/reel/DgCteylBMJQ/" target="_blank" rel="noopener">
+<img class="ig-card__img" src="/images/music-faith/reginapoetiray.jpg" alt="Regina Poetiray" loading="lazy" width="150" height="150">
+<span class="ig-card__text"><span class="ig-card__name">Regina Poetiray</span>
+<span class="ig-card__note">Menyanyi dengan hati yang berserah.</span></span>
 </a>
-<a class="ig-card" href="https://www.instagram.com/p/DgBMyeNkkyO/" target="_blank" rel="noopener">
-<img class="ig-card__img" src="/images/music-faith/ostonmusic.jpg" alt="OSTON" loading="lazy" width="150" height="150">
-<span class="ig-card__text"><span class="ig-card__name">OSTON</span>
-<span class="ig-card__note">Lagu barunya, "Not Alone", dan sebuah ruangan di San Francisco yang menyanyikan setiap kata.</span></span>
+<a class="ig-card" href="https://www.instagram.com/reel/DgEVsDjNkOI/" target="_blank" rel="noopener">
+<img class="ig-card__img" src="/images/music-faith/celynagrace.jpg" alt="Celyna Grace" loading="lazy" width="150" height="150">
+<span class="ig-card__text"><span class="ig-card__name">Celyna Grace</span>
+<span class="ig-card__note">Menyanyikan lagu rohani dengan iman.</span></span>
 </a>
-<a class="ig-card" href="https://www.instagram.com/reel/Df1qtokoyBh/" target="_blank" rel="noopener">
-<img class="ig-card__img" src="/images/music-faith/kenta_dedachi.jpg" alt="Kenta Dedachi" loading="lazy" width="150" height="150">
-<span class="ig-card__text"><span class="ig-card__name">Kenta Dedachi</span>
-<span class="ig-card__note">"Secret Fort" — hari-hari masa kecil di belakang gereja, lonceng sore, sahabat-sahabat terbaik dan dunia khayalan.</span></span>
+<a class="ig-card" href="https://www.instagram.com/reel/Df6BlKQT3qr/" target="_blank" rel="noopener">
+<img class="ig-card__img" src="/images/music-faith/shella_fernanda.jpg" alt="Shella Fernanda" loading="lazy" width="150" height="150">
+<span class="ig-card__text"><span class="ig-card__name">Shella Fernanda</span>
+<span class="ig-card__note">Vokal utama yang menyanyikan lagu rohani.</span></span>
 </a>
-<a class="ig-card" href="https://www.instagram.com/reel/DfCRnSiPXa5/" target="_blank" rel="noopener">
-<img class="ig-card__img" src="/images/music-faith/jeffarrandale.jpg" alt="Jeff Arrandale" loading="lazy" width="150" height="150">
-<span class="ig-card__text"><span class="ig-card__name">Jeff Arrandale</span>
-<span class="ig-card__note">Lagu baru dari Lukas 15, anak yang hilang. "Let Me Go".</span></span>
+<a class="ig-card" href="https://www.instagram.com/reel/DfekNhTok2b/" target="_blank" rel="noopener">
+<img class="ig-card__img" src="/images/music-faith/ayw_mus1c.jpg" alt="AYW" loading="lazy" width="150" height="150">
+<span class="ig-card__text"><span class="ig-card__name">AYW</span>
+<span class="ig-card__note">Penulis lagu pujian dan penyembahan.</span></span>
 </a>
-<a class="ig-card" href="https://www.instagram.com/reel/Df71X0lzZsN/" target="_blank" rel="noopener">
-<img class="ig-card__img" src="/images/music-faith/allison_eide.jpg" alt="Allison Eide" loading="lazy" width="150" height="150">
-<span class="ig-card__text"><span class="ig-card__name">Allison Eide</span>
-<span class="ig-card__note">"Yesus itu baik. Tur adalah anugerah." Lagu-lagunya, dimainkan di rumah.</span></span>
+<a class="ig-card" href="https://www.instagram.com/reel/DgBkGUgTLrw/" target="_blank" rel="noopener">
+<img class="ig-card__img" src="/images/music-faith/elieser_sombo.jpg" alt="Elieser Sombo" loading="lazy" width="150" height="150">
+<span class="ig-card__text"><span class="ig-card__name">Elieser Sombo</span>
+<span class="ig-card__note">Bersyukur lewat lagu karena Tuhan Yesus baik.</span></span>
 </a>
-<a class="ig-card" href="https://www.instagram.com/reel/DgD31mXBDcn/" target="_blank" rel="noopener">
-<img class="ig-card__img" src="/images/music-faith/rachelpurcellmusic.jpg" alt="Rachel Purcell" loading="lazy" width="150" height="150">
-<span class="ig-card__text"><span class="ig-card__name">Rachel Purcell</span>
-<span class="ig-card__note">Lagunya, "keep going" — musik Yesus retro yang melamun, sudah rilis.</span></span>
+<a class="ig-card" href="https://www.instagram.com/reel/DgG0lDbTEYo/" target="_blank" rel="noopener">
+<img class="ig-card__img" src="/images/music-faith/tiff_justin.jpg" alt="Tiffany Justin" loading="lazy" width="150" height="150">
+<span class="ig-card__text"><span class="ig-card__name">Tiffany Justin</span>
+<span class="ig-card__note">Menyanyi tentang Yesus sebagai Juruselamat.</span></span>
 </a>
-<a class="ig-card" href="https://www.instagram.com/reel/Df9vziqCJtC/" target="_blank" rel="noopener">
-<img class="ig-card__img" src="/images/music-faith/haleyjonesofficial.jpg" alt="Haley Jones" loading="lazy" width="150" height="150">
-<span class="ig-card__text"><span class="ig-card__name">Haley Jones</span>
-<span class="ig-card__note">"Semua orang mengenal seseorang yang perlu mendengar tentang Yesus."</span></span>
+<a class="ig-card" href="https://www.instagram.com/reel/DgFONhkjVr5/" target="_blank" rel="noopener">
+<img class="ig-card__img" src="/images/music-faith/mariashandi.jpg" alt="Maria Shandi" loading="lazy" width="150" height="150">
+<span class="ig-card__text"><span class="ig-card__name">Maria Shandi</span>
+<span class="ig-card__note">Menyanyikan lagu rohani yang menuntun ke Tuhan.</span></span>
 </a>
-<a class="ig-card" href="https://www.instagram.com/reel/DgAmATaizM0/" target="_blank" rel="noopener">
-<img class="ig-card__img" src="/images/music-faith/gracegrabermusic.jpg" alt="Grace Graber" loading="lazy" width="150" height="150">
-<span class="ig-card__text"><span class="ig-card__name">Grace Graber</span>
-<span class="ig-card__note">Lagu-lagu tentang perjalanan kesehatan mentalnya. Dan itu juga pop punk.</span></span>
+<a class="ig-card" href="https://www.instagram.com/reel/Dc7WfugB0as/" target="_blank" rel="noopener">
+<img class="ig-card__img" src="/images/music-faith/albertmaurits.jpg" alt="Albert Maurits" loading="lazy" width="150" height="150">
+<span class="ig-card__text"><span class="ig-card__name">Albert Maurits</span>
+<span class="ig-card__note">Membawakan lagu rohani dengan sukacita.</span></span>
 </a>
 </div>
 
