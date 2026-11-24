@@ -52,11 +52,6 @@ Lagu-lagu ini berbahasa Indonesia. Mereka musisi yang bernyanyi dalam bahasa Ind
 <span class="ig-card__text"><span class="ig-card__name">Shella Fernanda</span>
 <span class="ig-card__note">Vokal utama yang menyanyikan lagu rohani.</span></span>
 </a>
-<a class="ig-card" href="https://www.instagram.com/reel/DfekNhTok2b/" target="_blank" rel="noopener">
-<img class="ig-card__img" src="/images/music-faith/ayw_mus1c.jpg" alt="AYW" loading="lazy" width="150" height="150">
-<span class="ig-card__text"><span class="ig-card__name">AYW</span>
-<span class="ig-card__note">Penulis lagu pujian dan penyembahan.</span></span>
-</a>
 <a class="ig-card" href="https://www.instagram.com/reel/DgBkGUgTLrw/" target="_blank" rel="noopener">
 <img class="ig-card__img" src="/images/music-faith/elieser_sombo.jpg" alt="Elieser Sombo" loading="lazy" width="150" height="150">
 <span class="ig-card__text"><span class="ig-card__name">Elieser Sombo</span>
@@ -79,7 +74,7 @@ Lagu-lagu ini berbahasa Indonesia. Mereka musisi yang bernyanyi dalam bahasa Ind
 </a>
 </div>
 
-Aku penasaran lagu apa yang telah menopangmu. Lagu apa yang memegang imanmu ketika kata-kata habis? Dan dari kedua belas ini, mana yang akan kamu dengarkan pertama?
+Aku penasaran lagu apa yang telah menopangmu. Lagu apa yang memegang imanmu ketika kata-kata habis? Dan dari kesebelas ini, mana yang akan kamu dengarkan pertama?
 
 Beri tahu aku apa yang kamu dengarkan. Aku selalu mencari lagu-lagu baru.
 
