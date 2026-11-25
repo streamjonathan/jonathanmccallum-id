@@ -6,7 +6,7 @@ original_url: https://jonathanmccallum.com/privacy/
 
 # Privasi
 
-Situs ini dijalankan oleh Jonathan McCallum, yang tinggal di Getaria, Spanyol. Ini situs pribadi yang kecil: tulisan, dan sebuah chat yang menjawab dari tulisan itu. Tidak ada akun yang perlu dibuat di sini, tidak ada pelacakan, tidak ada iklan, dan tidak ada yang dijual. Situs ini mengikuti hukum privasi Eropa (GDPR) untuk semua pengunjung, di mana pun mereka berada di dunia.
+Situs ini dijalankan oleh Jonathan McCallum, yang tinggal di Negara Basque. Ini situs pribadi yang kecil: tulisan, dan sebuah chat yang menjawab dari tulisan itu. Tidak ada akun yang perlu dibuat di sini, tidak ada pelacakan, tidak ada iklan, dan tidak ada yang dijual. Situs ini mengikuti hukum privasi Eropa (GDPR) untuk semua pengunjung, di mana pun mereka berada di dunia.
 
 Kalau kamu perlu bertanya tentang apa pun di halaman ini, atau tentang data pribadimu, tulislah kepada Jonathan di <a href="#" data-contact-email data-contact-email-text>Kirim email</a>. Kamu juga bisa mengirim pesan kepadanya di [Instagram](https://www.instagram.com/jonamccallum) atau [Threads](https://www.threads.com/@jonamccallum).
 
